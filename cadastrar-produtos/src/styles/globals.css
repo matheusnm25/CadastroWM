@@ -6,12 +6,12 @@
 }
 
 :root {
-  --bg: #ffe4e6;
-  --card: #ffffff;
-  --pri: #375482;
+  --bg: #cbf0ff;
+  --card: #FFFFFF;
+  --pri: #002d74;
   --sec: #002d74;
-  --text: #000f26;
-  --muted: #9a8c98;
+  --text: #002d74;
+  --muted: #FFFFFF;
 }
 
 body {
